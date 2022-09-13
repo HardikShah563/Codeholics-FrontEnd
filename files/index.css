@@ -396,8 +396,12 @@ footer hr {
     text-align: center;
 }
 
+.build-with {
+    align-items: center;
+}
+
 .heart {
-    color: #ff0000;
+    width: 2vw;
 }
 
 .footer-links {
